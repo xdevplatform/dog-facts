@@ -1,6 +1,6 @@
 # Tweet a dog fact
 
-Allows you to Tweet a fact about dogs once! Can be found at [tweet-a-dog-fact.glitch.me](tweet-a-dog-fact.glitch.me)
+Allows you to Tweet a fact about dogs once! Try it out at [tweet-a-dog-fact.glitch.me](tweet-a-dog-fact.glitch.me).
 
 This site walks you through the OAuth 2.0 Authorization Code Flow with PKCE for authentication and makes a call to the Twitter API's manage Tweets endpoint.
 
